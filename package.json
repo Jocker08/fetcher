@@ -9,7 +9,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "lodash": "^4.17.19",
-    "log4js": "^6.1.2",
+    "log4js": "^6.4.0",
     "lowdb": "^1.0.0",
     "node-fetch": "^2.6.0",
     "object-hash": "^2.0.3",
